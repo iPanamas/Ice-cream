@@ -1,16 +1,16 @@
 {
-  "name": "Ice-cream",
+  "name": "Ice-team",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "homepage": "https://ipanamas.github.io/Ice-cream/",
   "scripts": {
-    "dev": "parcel src/*.html --open",
+    "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /ice-team-proj/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ipanamas/Ice-cream.git"
+    "url": "git+https://github.com/iPanamas/Ice-cream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
