@@ -1,9 +1,9 @@
 {
-  "name": "parcel-project-template",
+  "name": "Ice-cream",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ipanamas.github.io/Ice-team-project/",
+  "homepage": "https://ipanamas.github.io/Ice-cream/",
   "scripts": {
     "dev": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /ice-team-proj/"
