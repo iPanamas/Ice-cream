@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://ipanamas.github.io/Ice-team-project/",
   "scripts": {
-    "dev": "parcel src/*.html",
+    "dev": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /ice-team-proj/"
   },
   "repository": {
